@@ -1,4 +1,6 @@
 # HR-Attrition-Analysis
+I have completed this project under the guidence of MeriSkill as data analyst intern. 
+
 
 
 
